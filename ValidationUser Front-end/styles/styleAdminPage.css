@@ -1,0 +1,61 @@
+body{
+    background: linear-gradient(to right, #6a11cb, #2575fc); 
+    font-family: Arial, sans-serif;
+    padding: 20px;
+
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+thead th {
+    padding: 10px;
+    text-align: left;
+}
+
+tbody td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.btn_adicionar{
+    padding: 5px 10px;
+    margin-right: 5px;
+    height: 60px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #48f442;
+    color: white;
+}
+
+.btn {
+    padding: 5px 10px;
+    margin-right: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.alterar {
+    background-color: #f4b400;
+    color: white;
+}
+
+.detalhes {
+    background-color: #4285f4;
+    color: white;
+}
+
+.deletar {
+    background-color: #db4437;
+    color: white;
+}
