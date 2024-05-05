@@ -18,7 +18,7 @@ Para inicializar e criar o modelo da tabela do banco de dados, siga os passos ab
 
 Fique à vontade para modificar, melhorar e utilizar este projeto para fins educativos.
 
-##Manual
+## Manual
 Este mini sistema serve para validar se o usuário existe na base de dados ou não
 Utilize um software de teste de api para criar sua base de dados (PostMan, Insomnia por exemplo).
 Os tipos de usuário que eu estou utilizando é servidor ou gerente (fique a vontade para modificar ou adicionar).
